@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/root'
+let g:netrw_dirhist_2='/root/crontab'
+let g:netrw_dirhist_3='/root'
+let g:netrw_dirhist_4='/'
+let g:netrw_dirhist_5='/www'
+let g:netrw_dirhist_6='/'
+let g:netrw_dirhist_7='/etc'
+let g:netrw_dirhist_8='/root'
